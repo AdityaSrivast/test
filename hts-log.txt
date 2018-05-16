@@ -1,0 +1,64 @@
+HTTrack3.48-1+libhtsjava.so.2 launched on Wed, 16 May 2018 22:14:56 at https://colorlib.com/polygon/gentelella/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://colorlib.com/polygon/gentelella/ -O "/home/aditya/websites/dummyapifetch" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2013], %s -->" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:16:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jquery/dist/jquery.min.js
+22:16:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/bootstrap/dist/js/bootstrap.min.js
+22:16:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/fastclick/lib/fastclick.js
+22:16:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/nprogress/nprogress.js
+22:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/gauge.js/dist/gauge.min.js
+22:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/Chart.js/dist/Chart.min.js
+22:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js
+22:16:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/iCheck/icheck.min.js
+22:16:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/skycons/skycons.js
+22:16:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/Flot/jquery.flot.pie.js
+22:16:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/Flot/jquery.flot.time.js
+22:16:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/Flot/jquery.flot.js
+22:16:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/Flot/jquery.flot.stack.js
+22:16:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/Flot/jquery.flot.resize.js
+22:16:20	Warning: 	HTML file (38032 bytes) retransferred due to lack of cache: https://colorlib.com/polygon/gentelella/index2.html
+22:16:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/flot.orderbars/js/jquery.flot.orderBars.js
+22:16:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/flot-spline/js/jquery.flot.spline.min.js
+22:16:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/flot.curvedlines/curvedLines.js
+22:16:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/DateJS/build/date.js
+22:16:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jqvmap/dist/jquery.vmap.js
+22:16:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jqvmap/dist/maps/jquery.vmap.world.js
+22:16:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://colorlib.com/polygon/gentelella/index2.html (from https://colorlib.com/polygon/gentelella/)
+22:16:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js
+22:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js
+22:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jquery.hotkeys/jquery.hotkeys.js
+22:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/google-code-prettify/src/prettify.js
+22:16:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jquery.tagsinput/src/jquery.tagsinput.js
+22:16:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/ion.rangeSlider/js/ion.rangeSlider.min.js
+22:16:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/mjolnic-bootstrap-colorpicker/dist/js/bootstrap-colorpicker.min.js
+22:16:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jquery.inputmask/dist/min/jquery.inputmask.bundle.min.js
+22:16:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jquery-knob/dist/jquery.knob.min.js
+22:16:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/cropper/dist/cropper.min.js
+22:16:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/validator/validator.js
+22:16:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jQuery-Smart-Wizard/js/jquery.smartWizard.js
+22:16:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/dropzone/dist/min/dropzone.min.js
+22:16:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/pnotify/dist/pnotify.js
+22:16:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/pnotify/dist/pnotify.buttons.js
+22:16:31	Error: 	"Not Found" (404) at link https://colorlib.com/polygon/gentelella/cropped.png (from https://colorlib.com/polygon/gentelella/form_advanced.html)
+22:16:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/pnotify/dist/pnotify.nonblock.js
+22:16:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js
+22:16:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/fullcalendar/dist/fullcalendar.min.js
+22:16:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js
+22:16:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net/js/jquery.dataTables.min.js
+22:16:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net-buttons/js/dataTables.buttons.min.js
+22:16:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js
+22:16:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net-buttons/js/buttons.flash.min.js
+22:16:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net-buttons/js/buttons.html5.min.js
+22:16:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/datatables.net-buttons/js/buttons.print.min.js
+22:16:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://colorlib.com/polygon/vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js
+22:16:39	Warning: 	HTML file (38032 bytes) retransferred due to lack of cache: https://colorlib.com/polygon/gentelella/index2.html
+22:16:43	Warning: 	Retry after error -4 (Interrupted transfer) at link https://colorlib.com/polygon/gentelella/index2.html (from https://colorlib.com/polygon/gentelella/)
+22:16:43	Warning: 	HTML file (38032 bytes) retransferred due to lack of cache: https://colorlib.com/polygon/gentelella/index2.html
+22:16:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://colorlib.com/polygon/gentelella/index2.html (from https://colorlib.com/polygon/gentelella/)
+
+HTTrack Website Copier/3.48-1 mirror complete in 1 minutes 48 seconds : 172 links scanned, 231 files written (9240691 bytes overall) [3146232 bytes received at 29131 bytes/sec], 8059873 bytes transferred using HTTP compression in 191 files, ratio 27%, 8.4 requests per connection
+(2 errors, 51 warnings, 0 messages)
